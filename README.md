@@ -1,4 +1,23 @@
-# URL Decode Online
+<p align="center">
+  <a href="https://urldecodeonline.com">
+    <img src="./logo.png" alt="URL Decode Online Logo" width="120" />
+  </a>
+</p>
+
+<h1 align="center">URL Decode Online</h1>
+
+<p align="center">
+  A fast, clean, and reliable online URL Decode & Encode tool for developers
+</p>
+
+<p align="center">
+  <a href="https://urldecodeonline.com">Website</a> ·
+  <a href="./README.zh-CN.md">中文</a>
+</p>
+
+---
+
+## URL Decode Online
 
 **URL Decode Online** is a fast, clean, and reliable web tool for decoding and encoding URL-encoded strings.
 
@@ -33,12 +52,12 @@ Many online URL decoding tools are slow, cluttered, or full of ads. Some fail wh
 
 ## Features
 
-* 🔁 URL Decode and Encode
-* 🌍 UTF-8 and international character support
-* 🧩 Multi-layer decoding
-* 📋 One-click copy, swap, and clear
-* ⚡ Instant in-browser processing
-* 🧼 Clean, ad-free interface
+* 🔁 URL Decode and Encode  
+* 🌍 UTF-8 and international character support  
+* 🧩 Multi-layer decoding  
+* 📋 One-click copy, swap, and clear  
+* ⚡ Instant in-browser processing  
+* 🧼 Clean, ad-free interface  
 
 ---
 
@@ -46,10 +65,10 @@ Many online URL decoding tools are slow, cluttered, or full of ads. Some fail wh
 
 This tool is useful for:
 
-* Debugging API requests and query strings
-* Inspecting tracking and redirect URLs
-* Working with OAuth, webhooks, and callback URLs
-* Preparing encoded values for browsers or backend services
+* Debugging API requests and query strings  
+* Inspecting tracking and redirect URLs  
+* Working with OAuth, webhooks, and callback URLs  
+* Preparing encoded values for browsers or backend services  
 
 ---
 
@@ -73,11 +92,11 @@ No sign-up, no installation, and completely free.
 
 The website is built with:
 
-* Next.js
-* React
-* TypeScript
-* Tailwind CSS
-* Deployed on Vercel
+* Next.js  
+* React  
+* TypeScript  
+* Tailwind CSS  
+* Deployed on Vercel  
 
 All encoding and decoding happens on the client side.
 
